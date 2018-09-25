@@ -5,7 +5,7 @@
  * Date: 15/02/2018
  * Time: 05:35 PM
  */
-namespace Thitiphat\XMLSecLibs\Certificate;
+namespace thitiphat\XMLSecLibs\Certificate;
 
 /**
  * Class X509ContentType

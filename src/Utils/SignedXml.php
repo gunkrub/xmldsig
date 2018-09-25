@@ -1,13 +1,13 @@
 <?php
 
-namespace Thitiphat\XMLSecLibs\Utils;
+namespace thitiphat\XMLSecLibs\Utils;
 
 use DOMDocument;
 use DOMElement;
 use DOMNode;
-use Thitiphat\XMLSecLibs\XMLSecEnc;
-use Thitiphat\XMLSecLibs\XMLSecurityDSig;
-use Thitiphat\XMLSecLibs\XMLSecurityKey;
+use thitiphat\XMLSecLibs\XMLSecEnc;
+use thitiphat\XMLSecLibs\XMLSecurityDSig;
+use thitiphat\XMLSecLibs\XMLSecurityKey;
 use RuntimeException;
 use UnexpectedValueException;
 

@@ -1,5 +1,5 @@
 {
-  "name": "Thitiphat/xmldsig",
+  "name": "thitiphat/xmldsig",
   "description": "TCD XMLDSIG",
   "license": "BSD-2-Clause",
   "keywords": [
@@ -8,7 +8,7 @@
   "homepage": "https://github.com/gunkrub/xmldsig",
   "autoload": {
     "psr-4": {
-      "Thitiphat\\XMLSecLibs\\": "src"
+      "thitiphat\\XMLSecLibs\\": "src"
     }
   },
   "require": {

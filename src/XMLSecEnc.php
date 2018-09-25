@@ -1,5 +1,5 @@
 <?php
-namespace Thitiphat\XMLSecLibs;
+namespace thitiphat\XMLSecLibs;
 
 use DOMDocument;
 use DOMElement;
