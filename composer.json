@@ -1,0 +1,20 @@
+{
+  "name": "Thitiphat/xmldsig",
+  "description": "TCD XMLDSIG",
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "xmldsig"
+  ],
+  "homepage": "https://github.com/gunkrub/xmldsig",
+  "autoload": {
+    "psr-4": {
+      "Thitiphat\\XMLSecLibs\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9"
+   },
+  "suggest": {
+    "ext-openssl": "The OpenSsl Extension"
+  }
+}
